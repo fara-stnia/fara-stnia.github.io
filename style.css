@@ -276,19 +276,10 @@ footer p:nth-child(2) {
     transition: .3s;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.end {
+    font-size: 17px;
+    color: #fff;
+    text-align: center;
+    width: 500px;
+    line-height: 26px;
+}
